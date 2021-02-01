@@ -2,7 +2,7 @@
 
 **Name of the student:** Alejandra RAMIREZ <br>
 **Date:** 01/02/2021   <br>
-**Course:** 3AI <br>
+**Course:** CI15 3AI <br>
 
 ## Purpose
 > The purpose of thi repository contains the files and tutorial on the reproducible research.
